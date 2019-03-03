@@ -1,14 +1,8 @@
-
-*
-
-
-h1 {
-    color: teal;
-    font-size: 30px;
-    padding: 10px 10px 10px 30 px;
-    margin: 50px 30px 30px 30px;
+body {
+    background-color: lightgrey;
 }
 
-body{
-    background-color: grey
+#logo {
+    float: center;
+
 }
