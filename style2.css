@@ -6,3 +6,8 @@ body {
     float: center;
 
 }
+
+section {
+    width: 960px;
+    height: 500px;
+}
